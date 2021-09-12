@@ -12,9 +12,9 @@ public class BattleGame { // 클래스 사용하는 이유: 틀을 다시 쓰기 위해서
 		
 		public Player(String name, int hp, int atk) { // constructor with 3 parameter
 			// 생성자: 리턴값이 없는 메소드
-			this.name=name;
-			this.hp=hp;
-			this.atk=hp;
+			this.name = name;
+			this.hp = hp;
+			this.atk = atk; //
 		}
 		
 		
